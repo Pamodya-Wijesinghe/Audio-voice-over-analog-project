@@ -46,7 +46,8 @@ Simulation was carried out using LTspice before hardware implementation.
 Front view and internal layout of the enclosure:
 
 ![Enclosure Front](Images/Enclosure_Base.jpeg)
-![Exploded View](Enclosure/Renders/enclosure_exploded.png)
+![Enclosure Front](Images/Enclosure_Lid.jpeg)
+![Exploded View](Images/Final_Embedded_Device.jpeg)
 
 The enclosure was designed to provide sufficient strength while minimizing
 material usage.

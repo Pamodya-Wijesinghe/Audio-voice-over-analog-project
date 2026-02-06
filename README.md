@@ -30,8 +30,6 @@ Through this project, I learned:
 
 ---
 
-//## 🧠 System Overview
-//![Block Diagram](Images/block_diagram.png)
 
 ---
 

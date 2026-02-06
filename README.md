@@ -31,8 +31,6 @@ Through this project, I learned:
 ---
 
 
----
-
 ## 🔌 Circuit Design
 ![Schematic](Images/Schematic.jpeg)
 

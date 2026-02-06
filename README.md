@@ -45,7 +45,7 @@ Simulation was carried out using LTspice before hardware implementation.
 ## 🧱 Enclosure Design (SolidWorks)
 Front view and internal layout of the enclosure:
 
-![Enclosure Front](Enclosure/Renders/enclosure_front.png)
+![Enclosure Front](Images/Enclosure Base.jpeg)
 ![Exploded View](Enclosure/Renders/enclosure_exploded.png)
 
 The enclosure was designed to provide sufficient strength while minimizing

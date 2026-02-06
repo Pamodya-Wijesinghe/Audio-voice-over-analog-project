@@ -36,7 +36,7 @@ Through this project, I learned:
 ---
 
 ## 🔌 Circuit Design
-![Schematic](Images/voice_over_schematic.png)
+![Schematic](Images/Schematic.jpeg)
 
 Simulation was carried out using LTspice before hardware implementation.
 
